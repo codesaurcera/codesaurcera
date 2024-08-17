@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codesaurcera 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me codesaurcera@gmail.com
 - 😄 Pronouns: Codesaur
